@@ -1,14 +1,16 @@
-# Sales by Region Summary
+# Sales by Region Summary\n\n
 
-This report summarizes the sales revenue by region for the company's products. Below is a bar chart illustrating the total revenue generated from each region:
+## Summary of Sales Data\n\n
 
-![Sales by Region](./reports/sales_by_region.png)
+| Region          | Total Revenue ($) |
+|------------------|------------------|
+| North America    | 1,500,000         |
+| Europe           | 1,200,000         |
+| Asia-Pacific     | 1,000,000         |
+| South America    |   600,000        |
+| Africa           |   300,000        |
+\n
+**Total Revenue Overall: $3,600,000**\n
+\n
 
-## Summary of Sales Data
-- **North America**: $1,500,000
-- **Europe**: $1,200,000
-- **Asia-Pacific**: $1,000,000
-- **South America**: $600,000
-- **Africa**: $300,000
-
-The sales data indicates that North America has the highest revenue, while Africa has the lowest.
+![Total Revenue by Region](sales_by_region.png)
