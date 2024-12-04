@@ -25,23 +25,6 @@ Files:
  - ``dataviewer.ipynb`` is a utility for viewing the CSV files
 
 
-### /AI4BI-fb
-
-The files here support the article: 
-
-#### [AI for BI: Analysing Customer Feedback with AI](https://datavizandai.github.io/2024/12/01/AI4BI-Analysing-Customer-Feedback-with-AI.html)
-
-Using synthetic data we analyse the customer feedback from the sales of shoes from a fictional online shoe shop.
-Dec 1, 2024
-
-Files:
-
-- ``shoes range andd reviews.md`` the original customer feedback messages 
-- ``cust_fb.ipynb`` the analytic program
-- ``fb.json`` and ``report.md`` the output of the program
-- ``reporter.py`` a Streamlit app to displays the report, charts and feedback data
-
-
 
 ---
 
