@@ -40,4 +40,4 @@ or maybe...
 
 ---
 
-_Please note that the code in this repo is for educational and demonstration purposes. It should not be considered suitable for production._
+_Please note that the code in this repo is for educational and demonstration purposes. It should not be considered suitable for production purposes._
